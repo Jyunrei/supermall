@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f420d270-3f7c-48aa-9f15-6a36a1e12825" name="Default Changelist" comment="" />
+    <list default="true" id="f420d270-3f7c-48aa-9f15-6a36a1e12825" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
       </list>
     </option>
   </component>
@@ -37,7 +40,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/supermall1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/supermall/src/components/common" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,16 +53,16 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall" />
-      <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall\src\components\common" />
+      <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall\public" />
       <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall1" />
       <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall" />
       <recent name="E:\font-endProject\workSpace1\supermallDemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall" />
       <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall\src" />
-      <recent name="E:\font-endProject\workSpace1\supermallDemo\supermall\src\views" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +79,9 @@
       <workItem from="1610072691366" duration="13000" />
       <workItem from="1610072769825" duration="5935000" />
       <workItem from="1610078751413" duration="1112000" />
-      <workItem from="1610087493010" duration="105000" />
+      <workItem from="1610087493010" duration="9051000" />
+      <workItem from="1610277804461" duration="7697000" />
+      <workItem from="1610334915633" duration="4195000" />
     </task>
     <servers />
   </component>
@@ -120,5 +125,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610087597482" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1610333919950">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1610333919950" />
   </component>
 </project>
